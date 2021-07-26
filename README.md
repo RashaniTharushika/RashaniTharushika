@@ -1,4 +1,4 @@
-### Hi👋
+### Hello👋
 
 <!--
 **RashaniTharushika/RashaniTharushika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rashani Tharushika</h1>
 <h3 align="center">Undergraduate- SLIIT</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/@rashaniw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rashaniw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rashani-wijerathna-121413207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashani-wijerathna-121413207" height="30" width="40" /></a>
 <a href="https://instagram.com/______rash__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="______rash__" height="30" width="40" /></a>
