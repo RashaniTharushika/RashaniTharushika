@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--<h1 align="center">Hi 👋,--> I'm Rashani Tharushika</h1>
+<h1 align="center"><!--Hi 👋,--> I'm Rashani Tharushika</h1>
 <h3 align="center">Undergraduate- SLIIT</h3>
-<h3 align="center">Data Science</h3>
-
+<h3 align="center">Data Science👩🏻‍🎓</h3>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@rashaniw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rashaniw" height="30" width="40" /></a>
