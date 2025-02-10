@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"><!--Hi 👋,--> I'm Rashani Tharushika</h1>
-<h3 align="center">Undergraduate- SLIIT</h3>
+<h3 align="center">Academic Staff @SLIIT</h3>
 <h3 align="center">Data Science👩🏻‍🎓</h3>
 <h4 align="center">Connect with me:</h4>
 <p align="center">
